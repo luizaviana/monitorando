@@ -1,0 +1,29 @@
+.content {
+    display: flex;
+    flex-direction: row;
+}
+
+.widget {
+    position: absolute;
+    top: 27vh;
+    left: 40vw;
+
+    margin-right: 5vw;
+
+    height: 175px;
+    width: 250px;
+}
+
+.link, .link:hover {
+    margin-top: 30px;
+    align-content: center;
+
+    display: flex;
+    flex-direction: row;
+
+    position: absolute;
+    top: 0vh;
+    left: -50vw;
+
+    text-decoration: none;
+}

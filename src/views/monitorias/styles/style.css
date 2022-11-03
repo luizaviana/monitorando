@@ -1,0 +1,52 @@
+.content, .wrapper {
+    position: absolute;
+    top: 15vh;
+    left: 27vw;
+
+    display: flex;
+    flex-direction: column;
+}
+
+h1#monitorias {
+    position: relative;
+    top: 0vh;
+    left: -30vw;
+}
+
+h1#monitores {
+    position: absolute;
+    top: 50vh;
+    left: -30vw;
+}
+
+.widgets {
+    margin-top: 30px;
+    align-content: center;
+
+    display: flex;
+    flex-direction: row;
+}
+
+#w-horarios {
+    position: absolute;
+    top: -20vh;
+    left: -20vw;
+}
+
+#w-monitores { 
+    position: absolute;
+    top: 25vh;
+    left: -20vw;
+}
+
+.widget {
+    margin-right: auto;
+    height: 175px;
+    width: 250px;
+
+    border-radius: 20px;
+}
+
+.link, .link:hover {
+    text-decoration: none;
+}
