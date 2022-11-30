@@ -89,8 +89,7 @@ export default class Monitorias extends Component {
                                             </Link>
                                         )
                                         )}
-                                ), 
-                                this.arr
+                                )
                             }   
                         </div>
                     </div>

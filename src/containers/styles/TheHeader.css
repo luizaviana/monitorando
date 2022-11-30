@@ -20,7 +20,7 @@
     color: var(--main);
     text-decoration: none;
     font-size: medium;
-    margin-left: 15px;
+    margin-left: 10vw;
 }
 
 .link-header:hover {
